@@ -1,7 +1,7 @@
 /*
-This program simulates the scissor-paper-rock game. When it is run, prompts the user
-for an input of 0 (scissor), 1 (paper), or 2 (rock). It then
-displays a message indicating whether the user or computer
+This program simulates the scissor-paper-rock game. When it is run, 
+it prompts the user for an input of 0 (scissor), 1 (paper), or 2 (rock). 
+It then displays a message indicating whether the user or computer
 wins, loses, or draws.
  */
 
